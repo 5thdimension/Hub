@@ -22,6 +22,7 @@
     "@angular/forms": "~11.1.2",
     "@angular/platform-browser": "~11.1.2",
     "@angular/platform-browser-dynamic": "~11.1.2",
+    "@angular/pwa": "^0.1101.4",
     "@angular/router": "~11.1.2",
     "@schematics/update": "^0.1101.4",
     "firebase": "^8.2.6",
