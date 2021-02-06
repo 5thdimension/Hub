@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "apk5th": {
+      "hosting": {
+        "angular": [
+          "apk5th"
+        ]
+      }
+    }
+  }
+}
