@@ -28,6 +28,7 @@
     "@angular/router": "~11.1.2",
     "@schematics/angular": "^11.1.4",
     "@schematics/update": "^0.1101.4",
+    "@zeit/ng-deploy": "^0.3.0",
     "firebase": "^8.2.6",
     "rxjs": "~6.6.3",
     "tslib": "^1.9.0",
