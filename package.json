@@ -26,6 +26,7 @@
     "@angular/platform-browser-dynamic": "~11.1.2",
     "@angular/pwa": "^0.1101.4",
     "@angular/router": "~11.1.2",
+    "@schematics/angular": "^11.1.4",
     "@schematics/update": "^0.1101.4",
     "firebase": "^8.2.6",
     "rxjs": "~6.6.3",
