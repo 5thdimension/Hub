@@ -118,6 +118,9 @@
         },
         "deploy": {
           "builder": "@zeit/ng-deploy:deploy"
+        },
+        "desktop": {
+          "builder": "ngx-electronify:electron"
         }
       }
     },
